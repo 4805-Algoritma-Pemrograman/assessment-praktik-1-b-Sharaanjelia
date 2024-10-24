@@ -1,4 +1,3 @@
-
 improt.java.util.scanner;
 
 public class Nomor1{
